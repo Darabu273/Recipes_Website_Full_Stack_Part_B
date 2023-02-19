@@ -2,6 +2,7 @@
 Full-Stack Web Development Project – Design and develop a new 
 website to create, display, share, search and save recipes by pre-defined API, using 
 Node.js and Vue.js
+
 https://user-images.githubusercontent.com/81085280/219973401-f6bdfd6f-a0db-4bae-bcfc-5e2e37cf25d1.mov
 
 ## Assignment3.3 - Frontend
