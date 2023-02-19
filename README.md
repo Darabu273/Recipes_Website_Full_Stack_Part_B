@@ -1,6 +1,10 @@
-## Assignment3.3 - Frontend
+## Recipes_Website_Full_Stack
+Full-Stack Web Development Project – Design and develop a new 
+website to create, display, share, search and save recipes by pre-defined API, using 
+Node.js and Vue.js
+https://user-images.githubusercontent.com/81085280/219973401-f6bdfd6f-a0db-4bae-bcfc-5e2e37cf25d1.mov
 
-https://user-images.githubusercontent.com/81085280/219972323-88691d07-2fc0-4ee0-8caa-c7f174970091.mp4
+## Assignment3.3 - Frontend
 
 ## Authors
 [Dar Abu](https://github.com/Darabu273) - 316294032
@@ -23,10 +27,6 @@ For the Backend of this project [please click on this link](https://github.com/W
 3. Run the following in the terminal : npm run serve
 4. go to http://localhost:8080
 5. enjoy
-
-
-https://user-images.githubusercontent.com/81085280/219973401-f6bdfd6f-a0db-4bae-bcfc-5e2e37cf25d1.mov
-
 
 ## Snaps from the website:
 ![image](https://user-images.githubusercontent.com/66033664/185208593-a19909f4-9d85-49e4-9e18-90cb1fd59c50.png)
