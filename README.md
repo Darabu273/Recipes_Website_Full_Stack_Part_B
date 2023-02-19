@@ -29,6 +29,8 @@ For the Backend of this project [please click on this link](https://github.com/W
 4. go to http://localhost:8080
 5. enjoy
 
+**Part A of the project: https://github.com/Darabu273/Recipes_Website_Full_Stack_Part_B
+
 ## Snaps from the website:
 ![image](https://user-images.githubusercontent.com/66033664/185208593-a19909f4-9d85-49e4-9e18-90cb1fd59c50.png)
 
